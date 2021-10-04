@@ -1,7 +1,7 @@
 {
   "name": "jobs",
   "version": "1.0.0",
-  "homepage": "http://ShreyaaChauhan.github.io/NodeandExpressJS/API-Task-Manager",
+  "homepage": "http://ShreyaaChauhan.github.io/API-Task-Manager",
   "description": "",                            
   "main": "app.js",
   "scripts": {
