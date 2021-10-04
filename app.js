@@ -23,7 +23,7 @@ app.use(errorHandlerMiddleware)
 
 
 const port = process.env.PORT || 3000
-
+console.log("shreya")
 const start = async () => {
     try {
         await connectDB(process.env.MONGO_URI)
